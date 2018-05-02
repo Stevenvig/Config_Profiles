@@ -1,5 +1,17 @@
-This repository is for a collection of configuration profiles Amsys create for specific purposes.
+![Logo](http://www.moof-it.co.uk/wp-content/uploads/2017/12/moof-da-RGB-2.png)
 
- - vpn_menu_item.mobileconfig - This profile puts the VPN Menu Item into the OS X menu bar.
- - LocalisetoUK.mobileconfig - Sets the keyboard layout, region and language to UK.
- - first_boot - This is a collection of configuration profiles and an accompanying script that we are using to switch away from a traditional first boot script.
+# Scripts
+
+## Purpose
+
+This repository contains various configuration profiles that may be freely used and reproduced if required.
+
+## Support
+
+Use at your own risk. Moof IT will accept no responsibility for loss or damage caused by these scripts. Contact Moof IT if you need a custom script tailored to your environment.
+
+## License
+
+This work is licensed under http://creativecommons.org/licenses/by/4.0/.
+
+These scripts may be freely modified for personal or commercial purposes but may not be republished for profit without prior consent.
