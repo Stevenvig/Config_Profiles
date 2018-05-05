@@ -1,10 +1,12 @@
 ![Logo](https://www.moof-it.co.uk/moof-blue.png)
 
-# Scripts
+# Configuration Profiles
 
 ## Purpose
 
 This repository contains various configuration profiles that may be freely used and reproduced if required.
+
+It's recommended that these profiles are signed with a dev cert before being deployed to your config management solution of choice.
 
 ## Support
 
