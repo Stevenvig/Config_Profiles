@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.trusourcelabs.NoMAD</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ADDomain</key>
+								<string></string>
+								<key>ConfigureChrome</key>
+								<true/>
+								<key>ConfigureChromeDomain</key>
+								<string></string>
+								<key>DontShowWelcome</key>
+								<true/>
+								<key>HideAbout</key>
+								<true/>
+								<key>HidePrefs</key>
+								<true/>
+								<key>HideQuit</key>
+								<true/>
+								<key>HideSignOut</key>
+								<true/>
+								<key>KerberosRealm</key>
+								<string></string>
+								<key>LocalPasswordSync</key>
+								<true/>
+								<key>LocalPasswordSyncDontSyncLocalUsers</key>
+								<array>
+									<string>ladmin</string>
+								</array>
+								<key>LoginItem</key>
+								<true/>
+								<key>SignInWindowAlert</key>
+								<true/>
+								<key>SignInWindowOnLaunch</key>
+								<true/>
+								<key>SignInWindowOnLaunchExclusions</key>
+								<array>
+									<string>ladmin</string>
+								</array>
+								<key>UseKeychain</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>4BC7EA69-1D6A-4E25-883B-E821DAB05300</string>
+			<key>PayloadOrganization</key>
+			<string>moof IT</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>4BC7EA69-1D6A-4E25-883B-E821DAB05300</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>NoMAD - Configuration</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>1E673C7A-0354-4BB8-9E6E-3258B9319330</string>
+	<key>PayloadOrganization</key>
+	<string>moof IT</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1E673C7A-0354-4BB8-9E6E-3258B9319330</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
