@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>Disabled macOS' AutoUpdate notifications</string>
 	<key>PayloadDisplayName</key>
 	<string>macOS - Disable AutoUpdate</string>
 	<key>PayloadEnabled</key>

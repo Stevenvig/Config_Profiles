@@ -70,7 +70,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>Suppresses the Google Chrome First Run screens</string>
 	<key>PayloadDisplayName</key>
 	<string>Google Chrome - Suppress First Run</string>
 	<key>PayloadEnabled</key>

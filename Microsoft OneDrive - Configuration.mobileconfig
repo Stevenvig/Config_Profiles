@@ -78,7 +78,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>Hides OneDrive's Menu Bar icon and opens at login</string>
 	<key>PayloadDisplayName</key>
 	<string>Microsoft OneDrive - Configuration</string>
 	<key>PayloadEnabled</key>

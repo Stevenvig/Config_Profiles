@@ -74,7 +74,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>Configures NoMAD</string>
 	<key>PayloadDisplayName</key>
 	<string>NoMAD - Configuration</string>
 	<key>PayloadEnabled</key>

@@ -40,7 +40,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>Suppresses Word's First Run screens</string>
 	<key>PayloadDisplayName</key>
 	<string>Microsoft Word - Suppress First Run</string>
 	<key>PayloadEnabled</key>

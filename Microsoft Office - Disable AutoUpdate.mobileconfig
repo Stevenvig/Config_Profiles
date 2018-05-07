@@ -46,7 +46,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string></string>
+	<string>Disables Microsoft AutoUpdate Notifications</string>
 	<key>PayloadDisplayName</key>
 	<string>Microsoft Office - Disable AutoUpdate</string>
 	<key>PayloadEnabled</key>
