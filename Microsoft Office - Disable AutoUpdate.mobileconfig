@@ -36,7 +36,7 @@
 			<key>PayloadIdentifier</key>
 			<string>D79C40BC-F0B8-44AA-ACC6-4AB4B67F8BB5</string>
 			<key>PayloadOrganization</key>
-			<string>Moof IT</string>
+			<string>moof IT</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
