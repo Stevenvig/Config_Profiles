@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.RemoteManagement</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>LoadRemoteManagementMenuExtra</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>5E96D1AF-2CD3-4183-A3C5-9999CEF89964</string>
+			<key>PayloadOrganization</key>
+			<string>moof IT</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>5E96D1AF-2CD3-4183-A3C5-9999CEF89964</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables the Remote Management icon in the macOS Menu Bar</string>
+	<key>PayloadDisplayName</key>
+	<string>macOS - Enable Remote Management Menu Bar</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>38DBDD2E-BB30-4D16-BAC4-A1E4A77BC681</string>
+	<key>PayloadOrganization</key>
+	<string>moof IT</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>38DBDD2E-BB30-4D16-BAC4-A1E4A77BC681</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
